@@ -1,0 +1,30 @@
+
+body{
+    background-color: rgb(109, 99, 99);
+}
+
+
+
+.navbar{
+    background-color: lightskyblue !important;
+    font-weight: bold;
+}
+.dropdown-menu{
+    background-color: lightskyblue !important;
+
+}
+.dropdown-item:hover{
+    background-color: lightseagreen !important;
+    
+}
+.fa{
+    font-size: 33px !important;
+}
+.card{
+    margin: 70px !important;
+    display: inline-block;
+    background-color: lightyellow !important;
+}
+
+
+
